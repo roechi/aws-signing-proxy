@@ -1,5 +1,6 @@
-aws-signing-proxy
-=================
+# THIS PROJECT HAS BEEN MOVED TO https://github.com/idealo/aws-signing-proxy
+------
+## aws-signing-proxy
 
 A transparent proxy which forwards and signs http requests to AWS services.
  
@@ -18,9 +19,9 @@ In addition to the proxy you may also use `vault-env-cred-provider` as an
 using a (corporate) VPN. This will not occur on linux/windows/docker. 
 If you are affected: either use the provided docker image or build the binaries on your machine. 
 
-# Build & Run
+## Build & Run
 
-## Local
+### Local
 
 ### Build
 
